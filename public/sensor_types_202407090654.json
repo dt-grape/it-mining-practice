@@ -1,0 +1,93 @@
+{
+"sensor_types": [
+	{
+		"id" : 1,
+		"name" : "WIFI",
+		"descr" : null
+	},
+	{
+		"id" : 5,
+		"name" : "COM",
+		"descr" : null
+	},
+	{
+		"id" : 6,
+		"name" : "GPIO",
+		"descr" : null
+	},
+	{
+		"id" : 7,
+		"name" : "RFID",
+		"descr" : null
+	},
+	{
+		"id" : 8,
+		"name" : "SENSOR_UNLOAD",
+		"descr" : null
+	},
+	{
+		"id" : 2,
+		"name" : "UDP",
+		"descr" : null
+	},
+	{
+		"id" : 3,
+		"name" : "RS232",
+		"descr" : "RS232"
+	},
+	{
+		"id" : 4,
+		"name" : "RS485",
+		"descr" : "RS485"
+	},
+	{
+		"id" : 9,
+		"name" : "CAN",
+		"descr" : "Шина CAN"
+	},
+	{
+		"id" : 10,
+		"name" : "BROADCAST",
+		"descr" : "Широковещательный пакет"
+	},
+	{
+		"id" : 11,
+		"name" : "TCP",
+		"descr" : "TCP"
+	},
+	{
+		"id" : 12,
+		"name" : "EXTDLLVULCANX",
+		"descr" : "Интерфейс цифрового входа компьютера Ruggon VulcanX"
+	},
+	{
+		"id" : 13,
+		"name" : "PROFINET",
+		"descr" : "PROFINET"
+	},
+	{
+		"id" : 15,
+		"name" : "VulcanDIO",
+		"descr" : "Интерфейс к DIO для компьютера Ruggon VulcanX"
+	},
+	{
+		"id" : 14,
+		"name" : "API",
+		"descr" : "Передача данных сенсора через API"
+	},
+	{
+		"id" : 16,
+		"name" : "iCAN",
+		"descr" : "Шина CAN linux BK"
+	},
+	{
+		"id" : 17,
+		"name" : "TPMS",
+		"descr" : "Датчик давления в шинах TPMS ITM"
+	},
+	{
+		"id" : 18,
+		"name" : "RionCan",
+		"descr" : "Инклинометр Rion CAN2.0 шина"
+	}
+]}

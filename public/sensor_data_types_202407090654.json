@@ -1,0 +1,98 @@
+{
+"sensor_data_types": [
+	{
+		"id" : 2,
+		"name" : "WEIGHT",
+		"descr" : null
+	},
+	{
+		"id" : 3,
+		"name" : "TPMS",
+		"descr" : null
+	},
+	{
+		"id" : 4,
+		"name" : "PRS",
+		"descr" : null
+	},
+	{
+		"id" : 5,
+		"name" : "MOTORHOURS",
+		"descr" : null
+	},
+	{
+		"id" : 6,
+		"name" : "USER_LOGIN",
+		"descr" : null
+	},
+	{
+		"id" : 7,
+		"name" : "REFUEL",
+		"descr" : null
+	},
+	{
+		"id" : 8,
+		"name" : "UNLOAD_DATA",
+		"descr" : null
+	},
+	{
+		"id" : 10,
+		"name" : "INCLINE_DATA",
+		"descr" : null
+	},
+	{
+		"id" : 1,
+		"name" : "NAVUBLOX",
+		"descr" : "Стандартный навигационный приемник"
+	},
+	{
+		"id" : 9,
+		"name" : "INCLINOMETER_FRABAJ",
+		"descr" : "Инклинометр Fraba CAN J1939"
+	},
+	{
+		"id" : 11,
+		"name" : "BYNAV",
+		"descr" : "Высокоточная навигация двухантенная"
+	},
+	{
+		"id" : 12,
+		"name" : "ENCOWEN",
+		"descr" : "Энкодер Овен СИ30"
+	},
+	{
+		"id" : 14,
+		"name" : "EKG_JPC",
+		"descr" : "Интерфейс экскаватора ЭКГ с автоматикой Объединенная Энергия (Москва)"
+	},
+	{
+		"id" : 15,
+		"name" : "EKG_OBNINSK",
+		"descr" : "Интерфейс экскаватора ЭКГ с автоматикой ОбнинскЭнергоТЕХ (Обнинск)"
+	},
+	{
+		"id" : 16,
+		"name" : "TCPTOCOM",
+		"descr" : "Интерфейс от навигационного приемника к сторонним системам TCP->COM"
+	},
+	{
+		"id" : 13,
+		"name" : "OPENBUCKET",
+		"descr" : "Открытие ковша экскаватора"
+	},
+	{
+		"id" : 18,
+		"name" : "VulcanDIO",
+		"descr" : "Датчик DIO для компьютеров Ruggon"
+	},
+	{
+		"id" : 17,
+		"name" : "INCLINOMETER_RIOT_CAN",
+		"descr" : "Инклинометр Riot CAN"
+	},
+	{
+		"id" : 19,
+		"name" : "GPIO",
+		"descr" : "Датчики DIO для BK3588"
+	}
+]}

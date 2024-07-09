@@ -1,0 +1,1103 @@
+{
+"sensors_par": [
+	{
+		"sensors_id" : 261,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 30,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 263,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 32,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 265,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 34,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 267,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 36,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 227,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 0,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 269,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 38,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 236,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 3,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 271,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 40,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 238,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 5,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 240,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 7,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 242,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 9,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 244,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 11,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 246,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 13,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 248,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 15,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 250,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 17,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 252,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 19,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 254,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 21,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 256,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 23,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 258,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 25,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 260,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 27,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 262,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 29,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 264,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 31,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 266,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 33,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 268,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 35,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 270,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 37,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 272,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillDeep",
+		"id" : 39,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "drillDeepTurns"
+	},
+	{
+		"sensors_id" : 208,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 41,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 196,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 42,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 188,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 43,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 213,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 44,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 211,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 45,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 200,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 46,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 193,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 47,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 184,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 49,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 216,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 51,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 214,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 52,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 210,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 53,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 219,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 55,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 205,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 56,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 185,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 57,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 217,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 58,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 231,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 59,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 182,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 1,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 233,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 2,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 235,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 4,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 237,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 6,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 239,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 8,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 241,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 10,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 301,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "ekgArm",
+		"id" : 87,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "ekgArmLenTurns"
+	},
+	{
+		"sensors_id" : 247,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 16,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 249,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 18,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 251,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 20,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 253,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 22,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 255,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 24,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 257,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 26,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 287,
+		"val_float" : 1.0,
+		"val_text" : "-1 91.7 1 1.8",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 74,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 259,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 28,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 280,
+		"val_float" : 1.0,
+		"val_text" : "-1 90.7 1 0.6",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 67,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 282,
+		"val_float" : 1.0,
+		"val_text" : "-1 90.3 1 2.8",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 69,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 274,
+		"val_float" : 1.0,
+		"val_text" : "-1 90 1 0",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 60,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 296,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 80,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 275,
+		"val_float" : 1.0,
+		"val_text" : "-1 90 1 0",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 62,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 288,
+		"val_float" : 1.0,
+		"val_text" : "-1 90 1 0",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 75,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 289,
+		"val_float" : 1.0,
+		"val_text" : "-1 91.4 1 2.3",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 76,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 298,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 82,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 291,
+		"val_float" : 1.0,
+		"val_text" : "-1 90 1 0",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 78,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 283,
+		"val_float" : 1.0,
+		"val_text" : "-1 91.6 1 0.4",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 70,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 285,
+		"val_float" : 1.0,
+		"val_text" : "-1 90.4 1 1.7",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 72,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 276,
+		"val_float" : 1.0,
+		"val_text" : "-1 91.5 1 0",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 63,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 273,
+		"val_float" : 1.0,
+		"val_text" : "-1 89.1 1 2.4",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 61,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 278,
+		"val_float" : 1.0,
+		"val_text" : "-1 90 1 -1.9",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 65,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 277,
+		"val_float" : 1.0,
+		"val_text" : "-1 89 1 5.6",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 64,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 284,
+		"val_float" : 1.0,
+		"val_text" : "-1 89.6 1 0.9",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 71,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 299,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 83,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 300,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 84,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 286,
+		"val_float" : 1.0,
+		"val_text" : "-1 90.4 1 2.5",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 73,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 281,
+		"val_float" : 1.0,
+		"val_text" : "-1 90 1 1.5",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 68,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 290,
+		"val_float" : 1.0,
+		"val_text" : "-1 89.9 1 1",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 77,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 279,
+		"val_float" : 1.0,
+		"val_text" : "-1 90.4 1 3",
+		"par_name" : "drillMastFrame2axis",
+		"id" : 66,
+		"addr" : 195,
+		"pgn" : null,
+		"val_name" : "drillMastTiltX tiltY"
+	},
+	{
+		"sensors_id" : 295,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 79,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	},
+	{
+		"sensors_id" : 243,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 12,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 223,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 86,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 223,
+		"val_float" : 1.0,
+		"val_text" : "1 -90",
+		"par_name" : "ekgArm1axis",
+		"id" : 85,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 302,
+		"val_float" : 1.0,
+		"val_text" : "1 -90",
+		"par_name" : "ekgArm1axis",
+		"id" : 90,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 302,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 91,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 225,
+		"val_float" : 1.0,
+		"val_text" : "1 -90",
+		"par_name" : "ekgArm1axis",
+		"id" : 92,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 225,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 93,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 183,
+		"val_float" : 1.0,
+		"val_text" : "1 -90",
+		"par_name" : "ekgArm1axis",
+		"id" : 94,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 183,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 95,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 226,
+		"val_float" : 1.0,
+		"val_text" : "1 -90",
+		"par_name" : "ekgArm1axis",
+		"id" : 96,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 226,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 97,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 190,
+		"val_float" : 1.0,
+		"val_text" : "1 -90",
+		"par_name" : "ekgArm1axis",
+		"id" : 98,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 190,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 99,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 197,
+		"val_float" : 1.0,
+		"val_text" : "1 0",
+		"par_name" : "excHydArm1axis",
+		"id" : 101,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "excHydArm"
+	},
+	{
+		"sensors_id" : 197,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "excHydBoom2axis",
+		"id" : 102,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "excHydBoom tiltY"
+	},
+	{
+		"sensors_id" : 245,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "drillMast",
+		"id" : 14,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "keyOff keyOn"
+	},
+	{
+		"sensors_id" : 307,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "ekgArm",
+		"id" : 106,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "ekgArmLenTurns"
+	},
+	{
+		"sensors_id" : 294,
+		"val_float" : 1.0,
+		"val_text" : "1 0",
+		"par_name" : "excHydArm1axis",
+		"id" : 107,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "excHydArm"
+	},
+	{
+		"sensors_id" : 294,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "excHydBoom2axis",
+		"id" : 108,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "excHydBoom tiltY"
+	},
+	{
+		"sensors_id" : 222,
+		"val_float" : 1.0,
+		"val_text" : "-1 90",
+		"par_name" : "excHydArm1axis",
+		"id" : 100,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "excHydArm"
+	},
+	{
+		"sensors_id" : 222,
+		"val_float" : 1.0,
+		"val_text" : "-1 30 1 0",
+		"par_name" : "excHydBoom2axis",
+		"id" : 103,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "excHydBoom tiltY"
+	},
+	{
+		"sensors_id" : 187,
+		"val_float" : 1.0,
+		"val_text" : "-1 28",
+		"par_name" : "excHydArm1axis",
+		"id" : 104,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "excHydArm"
+	},
+	{
+		"sensors_id" : 187,
+		"val_float" : 1.0,
+		"val_text" : "-1 0 1 0",
+		"par_name" : "excHydBoom2axis",
+		"id" : 105,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "excHydBoom tiltY"
+	},
+	{
+		"sensors_id" : 308,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "ekgArm",
+		"id" : 109,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "ekgArmLenTurns"
+	},
+	{
+		"sensors_id" : 309,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "ekgArm",
+		"id" : 111,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "ekgArmLenTurns"
+	},
+	{
+		"sensors_id" : 310,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 113,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 311,
+		"val_float" : 1.0,
+		"val_text" : "1 -90",
+		"par_name" : "ekgArm1axis",
+		"id" : 114,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 311,
+		"val_float" : 1.0,
+		"val_text" : "1 0 1 0",
+		"par_name" : "equipFrame2axis",
+		"id" : 115,
+		"addr" : 194,
+		"pgn" : null,
+		"val_name" : "tiltX tiltY"
+	},
+	{
+		"sensors_id" : 310,
+		"val_float" : 1.0,
+		"val_text" : "1 -310",
+		"par_name" : "ekgArm1axis",
+		"id" : 112,
+		"addr" : 193,
+		"pgn" : null,
+		"val_name" : "ekgArmAngle"
+	},
+	{
+		"sensors_id" : 313,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "excavatorBucket",
+		"id" : 116,
+		"addr" : null,
+		"pgn" : null,
+		"val_name" : "bucketOpen"
+	}
+]}

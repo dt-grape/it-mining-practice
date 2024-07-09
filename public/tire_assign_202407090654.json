@@ -1,0 +1,30 @@
+{
+"tire_assign": [
+	{
+		"id" : 1,
+		"tire_id" : 1,
+		"equip_id" : 1,
+		"tire_storage_id" : null,
+		"position" : 1,
+		"time_assign" : "2016-01-14T08:18:32.003Z",
+		"sensor_id" : 1
+	},
+	{
+		"id" : 21,
+		"tire_id" : 2,
+		"equip_id" : 1,
+		"tire_storage_id" : null,
+		"position" : 2,
+		"time_assign" : "2016-01-14T08:18:32.003Z",
+		"sensor_id" : 2
+	},
+	{
+		"id" : 26,
+		"tire_id" : 3,
+		"equip_id" : 1,
+		"tire_storage_id" : null,
+		"position" : 3,
+		"time_assign" : "2016-01-14T08:18:32.003Z",
+		"sensor_id" : 3
+	}
+]}

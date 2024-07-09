@@ -1,0 +1,4854 @@
+{
+"equipment_par": [
+	{
+		"equip_id" : 7,
+		"val_float" : 8.467,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 3
+	},
+	{
+		"equip_id" : 8,
+		"val_float" : 10.5,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 8
+	},
+	{
+		"equip_id" : 8,
+		"val_float" : 14.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 7
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 1.714,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 5
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 2.723,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 4
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 12.287,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 6
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 7.63,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 1
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : null,
+		"val_text" : "2:4",
+		"par_name" : "tire_type",
+		"id" : 14
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : null,
+		"val_text" : "TOWER",
+		"par_name" : "type",
+		"id" : 16
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 9
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 46.222,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 2
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 8.467,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 17
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 10.5,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 18
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 14.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 19
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 1.714,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 20
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 7.63,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 22
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 12.287,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 23
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 24
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 26
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 31
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 5.55,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 32
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 261.0,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 33
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 36
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 13
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 37
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 124
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 4.7,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 40
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 45
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 50
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 52
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 56
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 61
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 63
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "radius_load",
+		"id" : 11
+	},
+	{
+		"equip_id" : 9,
+		"val_float" : 40.0,
+		"val_text" : null,
+		"par_name" : "radius_wait",
+		"id" : 12
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 67
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 72
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 74
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 78
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 83
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 85
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 4.1245,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 79
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 91
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 7.0444,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 111
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 99
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 104
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 105
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 110
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 115
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 116
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 49.211,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 123
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 10.5,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 118
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 14.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 119
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 1.714,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 120
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 121
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 314.55,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 102
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 49.211,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 112
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 126
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 127
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 107
+	},
+	{
+		"equip_id" : 12,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 21
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 5.58,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 46
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 8.467,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 117
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 4.25,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 57
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 70
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 5.283,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 68
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 262.1016,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 47
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 55.94,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 69
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 113
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 233.5,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 58
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 51
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 149
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 131
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 133
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 5.78,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 136
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 134
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 251.9313,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 138
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 128
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 4.7,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 142
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 146
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 2.82,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 147
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 89.191,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 148
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 5.9,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 38
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 294.0,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 39
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 129
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 4.5,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 100
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 213.057,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 101
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 130
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 59
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 132
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 81
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 135
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 94
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 5.69,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 139
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 291.9,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 140
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 621
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 6.0,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 95
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 31.3,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 96
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 137
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 622
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 34
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 48
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 143
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 144
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 5.8,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 145
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 16.0,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 150
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 84
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 75
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 76
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 77
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 82
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 28
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 29
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 30
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 35
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 62
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 53
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 54
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 55
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 60
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 42
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 43
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 44
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 106
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 108
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 109
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 114
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 86
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 4.7,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 87
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 3.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 88
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 3.6,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 89
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 7.5,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 90
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 1.4,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 92
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 9.8,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 97
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 1.8,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 98
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 10.6,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 103
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 1.2,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 66
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 9.4,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 64
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 65
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 71
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 7.0,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 73
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 125
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 151
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 153
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 5.156,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 41
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 5.73,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 208
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 158
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 163
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 165
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 169
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 3.61,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 170
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 310.3011,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 171
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 174
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 176
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 181
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 186
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 187
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 5.6302,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 201
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 4.8271,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 218
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 84.25,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 294
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 4.91,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 225
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 3.631,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 191
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 5.953,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 190
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 196
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 624
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 6.0,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 209
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 172
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 256
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 257
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 258
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 3.5,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 227
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 259
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 233
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 234
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 235
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 236
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 237
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 238
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 239
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 240
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 241
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 242
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 243
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 244
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 245
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 264
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 247
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 248
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 249
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 250
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 271
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 4.68,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 219
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 6.01,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 207
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 272
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 273
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 74.162,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 254
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 262.97,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 285
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 260
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 265
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 266
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 310.49,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 160
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 5.78,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 202
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 270
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 275
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 277
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 6.978,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 261
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 52.87,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 262
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 274
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 5.8354,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 182
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 253.6316,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 183
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 55.1291,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 269
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 278
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 276
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 177
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 179
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 180
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 3.97,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 231
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 5.755,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 204
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 4.9582,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 221
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 273.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 284
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 5.69,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 206
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 4.62,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 223
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 185
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 110.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 283
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 281
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 5.615,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 193
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 5.59,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 214
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : -2.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 282
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 4.0,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 230
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 5.82,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 200
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 4.88,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 217
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 5.55,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 205
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 275.53,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 286
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 4.27,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 232
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 55.201,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 280
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 623
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 161
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 4.5646,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 222
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 267
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 268
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 4.78,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 226
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 58.8,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 252
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 5.88,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 195
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 272.52,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 289
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 5.81,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 211
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 4.8073,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 229
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 5.54,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 198
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 4.8189,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 215
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 274.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 290
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 83.5,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 292
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 285.52,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 192
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 84.2,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 287
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 5.886,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 199
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 67.34838,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 194
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 4.7638,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 216
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 5.82,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 203
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 263
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 197
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 253
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 255
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 1.5,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 189
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 178
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 164
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 155
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 156
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 5.8,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 157
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 16.0,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 162
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 175
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 166
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 167
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 168
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 173
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 152
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 3.61,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 159
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 7.06,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 279
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 5.81,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 212
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 130.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 298
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 307
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 12.28,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 311
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 312
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 314
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 4.147,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 308
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 319.0599,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 309
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 5.799,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 213
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 2.2,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 366
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : 7.0444,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 122
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 58.7,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 365
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 60.47067,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 326
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 316
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 395
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 97.23,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 302
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 51.49,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 347
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 287.28,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 360
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 393
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 286.009,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 379
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 104.6,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 300
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 3.588,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 353
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 279.5769,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 315
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 1.714,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 330
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 331
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 12.28,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 332
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 333
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 334
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 342
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 344
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 345
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 7.0444,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 346
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 352
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 357
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 359
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 309.257,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 354
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 348
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 8.2,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 380
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 94.3,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 301
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 384
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 253.16,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 336
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 5.628,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 405
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 259.6,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 406
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 372
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 4.91,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 376
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 255.31,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 377
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 7.642,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 419
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 59.27918,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 362
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 4.62,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 141
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 273.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 303
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 46.243,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 420
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 96.06,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 295
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 95.4,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 291
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 421
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 355
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 385
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 386
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 388
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 390
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 427
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 396
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 401
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 403
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 404
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 408
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : null,
+		"val_text" : "1C1C1C",
+		"par_name" : "Color",
+		"id" : 409
+	},
+	{
+		"equip_id" : 1,
+		"val_float" : null,
+		"val_text" : "4F4F4F",
+		"par_name" : "ColorARM",
+		"id" : 410
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 415
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 417
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 418
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 422
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 429
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 430
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 434
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 5.8,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 387
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 16.0,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 389
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 274.9,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 299
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 2.818,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 394
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 290.8,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 317
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 283.2,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 322
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 291.9,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 319
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 292.16,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 324
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 383
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 275.5,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 296
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 310
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 337
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 433
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 85.621,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 392
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 407
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 391
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 375
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 318
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 320
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 323
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 325
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 361
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 364
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 378
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 275.4,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 297
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 313
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 304
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 305
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 306
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 435
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 358
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 349
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 350
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 351
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 327
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 328
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 329
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 426
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 428
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 256.15,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 432
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 625
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 338
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 397
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 398
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 399
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 400
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 402
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 423
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 424
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 425
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 411
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 412
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 413
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 414
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 10.2,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 416
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 1.4,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 373
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 367
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 5.87,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 431
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 3.6,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 370
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 3.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 369
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 7.5,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 371
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 374
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 4.7,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 368
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 439
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 441
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 2.874,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 443
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 84.478,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 444
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 451
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 453
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 454
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 5.276,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 455
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 53.488,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 456
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 0.10256,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 502
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 478
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 0.1096,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 498
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 0.1,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 475
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 626
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 463
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 465
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 628
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 470
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 631
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 86.36,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 630
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 474
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 2.753,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 629
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 321.46,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 80
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 479
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 9.0,
+		"val_text" : null,
+		"par_name" : "RopeLenPress",
+		"id" : 632
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 483
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 5.851,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 335
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 445
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 436
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 487
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 8.5,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 437
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 0.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 438
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 491
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 440
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 442
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 356
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 497
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 8.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 627
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 501
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 8.46,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 27
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 11.2,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 339
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 505
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 340
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 1.6,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 341
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 509
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 343
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 457
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 7.0,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 447
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 515
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 635
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 5.15,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 636
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 519
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 3.6,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 637
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 9.4,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 448
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 523
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 449
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 1.2,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 450
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 527
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 10.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 452
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 0.101,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 538
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 0.108,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 516
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 533
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 0.1096,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 542
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 0.10666,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 506
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 537
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 0.091,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 480
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 0.1,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 492
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 541
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 4.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 467
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 0.1326,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 488
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 545
+	},
+	{
+		"equip_id" : 20,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 546
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 547
+	},
+	{
+		"equip_id" : 88,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 548
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 549
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 550
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 551
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 0.1286,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 524
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 556
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 557
+	},
+	{
+		"equip_id" : 94,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 558
+	},
+	{
+		"equip_id" : 95,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 559
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 560
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 561
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 562
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 563
+	},
+	{
+		"equip_id" : 102,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 564
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 469
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 0.12,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 466
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 517
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 482
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 460
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 61.10808,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 495
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 0.12,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 530
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 0.12,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 446
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 507
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 513
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 459
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 493
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 472
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 0.1127,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 461
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 499
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 528
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 468
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 473
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 486
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 485
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 0.108,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 471
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 503
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 521
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 477
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 481
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 525
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 531
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 535
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 539
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 543
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 284.2333,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 510
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 0.1013,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 520
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 0.111,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 512
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 511
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 529
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 496
+	},
+	{
+		"equip_id" : 103,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 565
+	},
+	{
+		"equip_id" : 104,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 566
+	},
+	{
+		"equip_id" : 105,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 567
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 568
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 569
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 570
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 571
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 572
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 573
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 574
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 575
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 576
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 577
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 229.06,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 578
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 319.0599,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 579
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 4.147,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 580
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 581
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 582
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 583
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 7.0,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 584
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 585
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 1.714,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 586
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 4.0,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 587
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 588
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 589
+	},
+	{
+		"equip_id" : 145,
+		"val_float" : 5.0,
+		"val_text" : null,
+		"par_name" : "AB",
+		"id" : 590
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 518
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 0.75,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 617
+	},
+	{
+		"equip_id" : 130,
+		"val_float" : 0.75,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 610
+	},
+	{
+		"equip_id" : 122,
+		"val_float" : 0.7,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 618
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 544
+	},
+	{
+		"equip_id" : 138,
+		"val_float" : 0.7,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 602
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 184
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 11.8,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 49
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 6.6,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 638
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 1.1,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 639
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "AB",
+		"id" : 640
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 641
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 2.5,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 642
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 7.2,
+		"val_text" : null,
+		"par_name" : "AB",
+		"id" : 643
+	},
+	{
+		"equip_id" : 114,
+		"val_float" : 20.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 93
+	},
+	{
+		"equip_id" : 115,
+		"val_float" : 7.2,
+		"val_text" : null,
+		"par_name" : "AB",
+		"id" : 644
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 647
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 4.91,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 652
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 653
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 255.31,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 654
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 0.108,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 534
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 536
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 11.5,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 658
+	},
+	{
+		"equip_id" : 113,
+		"val_float" : 10.3,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 659
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 6.9,
+		"val_text" : null,
+		"par_name" : "AB",
+		"id" : 645
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 1.4,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 646
+	},
+	{
+		"equip_id" : 5,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 382
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 494
+	},
+	{
+		"equip_id" : 123,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 500
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 508
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 522
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 526
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 532
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 540
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 381
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 4.2658,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 220
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 94.73,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 293
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 514
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 5.953,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 592
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 3.631,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 593
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 285.52,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 594
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 595
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 5.3,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 648
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 110.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 597
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 598
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 0.12,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 599
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 8.1,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 600
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 601
+	},
+	{
+		"equip_id" : 15,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 596
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 321
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 504
+	},
+	{
+		"equip_id" : 137,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 603
+	},
+	{
+		"equip_id" : 136,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 604
+	},
+	{
+		"equip_id" : 135,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 605
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 606
+	},
+	{
+		"equip_id" : 133,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 607
+	},
+	{
+		"equip_id" : 132,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 608
+	},
+	{
+		"equip_id" : 129,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 611
+	},
+	{
+		"equip_id" : 128,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 612
+	},
+	{
+		"equip_id" : 127,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 613
+	},
+	{
+		"equip_id" : 126,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 614
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 615
+	},
+	{
+		"equip_id" : 124,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 616
+	},
+	{
+		"equip_id" : 121,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 619
+	},
+	{
+		"equip_id" : 120,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 620
+	},
+	{
+		"equip_id" : 131,
+		"val_float" : 0.75,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 609
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 2.3,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 649
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 7.4,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 656
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 650
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 633
+	},
+	{
+		"equip_id" : 99,
+		"val_float" : 22.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 655
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 154
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 660
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 6.805,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 661
+	},
+	{
+		"equip_id" : 116,
+		"val_float" : 23.04,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 662
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 0.25,
+		"val_text" : null,
+		"par_name" : "DrillMinSpeed",
+		"id" : 663
+	},
+	{
+		"equip_id" : 125,
+		"val_float" : 2.5,
+		"val_text" : null,
+		"par_name" : "DrillMaxSpeed",
+		"id" : 664
+	},
+	{
+		"equip_id" : 87,
+		"val_float" : 0.26,
+		"val_text" : null,
+		"par_name" : "EkgOwenArmOutPerTurn",
+		"id" : 665
+	},
+	{
+		"equip_id" : 134,
+		"val_float" : 0.10959,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 484
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 666
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 667
+	},
+	{
+		"equip_id" : 112,
+		"val_float" : -2.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 668
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : -2.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 672
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : -2.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 674
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 675
+	},
+	{
+		"equip_id" : 111,
+		"val_float" : -2.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 676
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 677
+	},
+	{
+		"equip_id" : 110,
+		"val_float" : -2.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 678
+	},
+	{
+		"equip_id" : 109,
+		"val_float" : -2.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 686
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 685
+	},
+	{
+		"equip_id" : 90,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 687
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 14.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 690
+	},
+	{
+		"equip_id" : 91,
+		"val_float" : 9.0,
+		"val_text" : null,
+		"par_name" : "RopeLenPress",
+		"id" : 691
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 692
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "Ksh",
+		"id" : 693
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 2.753,
+		"val_text" : null,
+		"par_name" : "R",
+		"id" : 694
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 45.0,
+		"val_text" : null,
+		"par_name" : "ugl_arm",
+		"id" : 695
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 86.36,
+		"val_text" : null,
+		"par_name" : "ugl_i",
+		"id" : 696
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 15.0,
+		"val_text" : null,
+		"par_name" : "volume",
+		"id" : 697
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 6.9,
+		"val_text" : null,
+		"par_name" : "AB",
+		"id" : 698
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 1.4,
+		"val_text" : null,
+		"par_name" : "BC",
+		"id" : 699
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "BC_D",
+		"id" : 700
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 5.3,
+		"val_text" : null,
+		"par_name" : "Darm",
+		"id" : 701
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 2.3,
+		"val_text" : null,
+		"par_name" : "dhBC",
+		"id" : 702
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 180.0,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 703
+	},
+	{
+		"equip_id" : 146,
+		"val_float" : 7.4,
+		"val_text" : null,
+		"par_name" : "dhG",
+		"id" : 704
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DioVulcanXorValue",
+		"id" : 705
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 3.0,
+		"val_text" : null,
+		"par_name" : "DrillRodCount",
+		"id" : 706
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 2.18,
+		"val_text" : null,
+		"par_name" : "DrillDhRod",
+		"id" : 707
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 275.53,
+		"val_text" : null,
+		"par_name" : "Dheading",
+		"id" : 708
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 0.5,
+		"val_text" : null,
+		"par_name" : "DrillDhBit",
+		"id" : 709
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 4.8271,
+		"val_text" : null,
+		"par_name" : "drill_R",
+		"id" : 710
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 5.6302,
+		"val_text" : null,
+		"par_name" : "drill_dhG",
+		"id" : 711
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 8.0,
+		"val_text" : null,
+		"par_name" : "DrillRodLenght",
+		"id" : 712
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 4.95,
+		"val_text" : null,
+		"par_name" : "drill_dhMast",
+		"id" : 713
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 55.1291,
+		"val_text" : null,
+		"par_name" : "drill_angle",
+		"id" : 714
+	},
+	{
+		"equip_id" : 118,
+		"val_float" : 0.10256,
+		"val_text" : null,
+		"par_name" : "DrillingDeepByTurn",
+		"id" : 715
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 680
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToHeadBlock",
+		"id" : 679
+	},
+	{
+		"equip_id" : 92,
+		"val_float" : 0.0,
+		"val_text" : null,
+		"par_name" : "LenRopeToPressBlock",
+		"id" : 689
+	},
+	{
+		"equip_id" : 107,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 683
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 9.0,
+		"val_text" : null,
+		"par_name" : "RopeLenPress",
+		"id" : 716
+	},
+	{
+		"equip_id" : 89,
+		"val_float" : 14.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 717
+	},
+	{
+		"equip_id" : 93,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 669
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 9.0,
+		"val_text" : null,
+		"par_name" : "RopeLenPress",
+		"id" : 718
+	},
+	{
+		"equip_id" : 101,
+		"val_float" : 14.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 719
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 9.0,
+		"val_text" : null,
+		"par_name" : "RopeLenPress",
+		"id" : 720
+	},
+	{
+		"equip_id" : 106,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 721
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 9.0,
+		"val_text" : null,
+		"par_name" : "RopeLenPress",
+		"id" : 722
+	},
+	{
+		"equip_id" : 108,
+		"val_float" : 10.0,
+		"val_text" : null,
+		"par_name" : "RopeLenUp",
+		"id" : 723
+	},
+	{
+		"equip_id" : 96,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 688
+	},
+	{
+		"equip_id" : 97,
+		"val_float" : 1.0,
+		"val_text" : null,
+		"par_name" : "LenRopeFactor",
+		"id" : 673
+	}
+]}

@@ -1,0 +1,87 @@
+{
+"equip_type": [
+	{
+		"id" : 1,
+		"name" : "TRUCK",
+		"description" : "Автосамосвал",
+		"active" : true,
+		"descr" : null
+	},
+	{
+		"id" : 8,
+		"name" : "LOADER",
+		"description" : "Погрузчик",
+		"active" : true,
+		"descr" : null
+	},
+	{
+		"id" : 2,
+		"name" : "EXCAVATOR",
+		"description" : "Экскаватор ЭКГ",
+		"active" : true,
+		"descr" : null
+	},
+	{
+		"id" : 3,
+		"name" : "FUELTRUCK",
+		"description" : "Топливозаправщик",
+		"active" : false,
+		"descr" : null
+	},
+	{
+		"id" : 5,
+		"name" : "DOZER",
+		"description" : "Бульдозер",
+		"active" : false,
+		"descr" : null
+	},
+	{
+		"id" : 6,
+		"name" : "AUX",
+		"description" : "Вспомогательная техника",
+		"active" : false,
+		"descr" : null
+	},
+	{
+		"id" : 7,
+		"name" : "STUFF",
+		"description" : "Работники",
+		"active" : false,
+		"descr" : null
+	},
+	{
+		"id" : 9,
+		"name" : "GRADER",
+		"description" : "Грейдер",
+		"active" : false,
+		"descr" : null
+	},
+	{
+		"id" : 10,
+		"name" : "EXCAVATORH",
+		"description" : "Экскаватор гидравл.",
+		"active" : true,
+		"descr" : null
+	},
+	{
+		"id" : 11,
+		"name" : "DRILLD",
+		"description" : "Буровой станок диз",
+		"active" : true,
+		"descr" : null
+	},
+	{
+		"id" : 4,
+		"name" : "DRILL",
+		"description" : "Буровой станок СБШ",
+		"active" : true,
+		"descr" : null
+	},
+	{
+		"id" : 12,
+		"name" : "EXCAVATORB",
+		"description" : "Экскаватор обр. лопата",
+		"active" : true,
+		"descr" : null
+	}
+]}

@@ -1,0 +1,45 @@
+{
+"tires": [
+	{
+		"id" : 1,
+		"sn" : "10000111",
+		"maxtemp" : 40.0,
+		"mintemp" : 10.0,
+		"maxpress" : 40.0,
+		"minpress" : 10.0,
+		"tkph" : 10.0,
+		"size" : "5",
+		"install_date" : null,
+		"manuf_date" : null,
+		"manufacturer" : "itmine",
+		"ext_id" : null
+	},
+	{
+		"id" : 2,
+		"sn" : "10000112",
+		"maxtemp" : 40.0,
+		"mintemp" : 10.0,
+		"maxpress" : 40.0,
+		"minpress" : 10.0,
+		"tkph" : 10.0,
+		"size" : "5",
+		"install_date" : null,
+		"manuf_date" : null,
+		"manufacturer" : "itmine",
+		"ext_id" : null
+	},
+	{
+		"id" : 3,
+		"sn" : "10000113",
+		"maxtemp" : 40.0,
+		"mintemp" : 10.0,
+		"maxpress" : 40.0,
+		"minpress" : 10.0,
+		"tkph" : 10.0,
+		"size" : "5",
+		"install_date" : null,
+		"manuf_date" : null,
+		"manufacturer" : "itmine",
+		"ext_id" : null
+	}
+]}

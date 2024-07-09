@@ -1,0 +1,43 @@
+{
+"fleet": [
+	{
+		"id" : 1,
+		"name" : "Экскаватор ЭКГ",
+		"description" : "Экскаватор ЭКГ"
+	},
+	{
+		"id" : 2,
+		"name" : "Экскаватор Hitachi",
+		"description" : "Экскаватор Hitachi"
+	},
+	{
+		"id" : 3,
+		"name" : "Буровая установка СБШ",
+		"description" : "Буровая установка СБШ"
+	},
+	{
+		"id" : 4,
+		"name" : "Буровая установка Sandvik",
+		"description" : "Буровая установка Sandvik"
+	},
+	{
+		"id" : 10,
+		"name" : "Экскаватор Cat",
+		"description" : "Экскаватор Cat"
+	},
+	{
+		"id" : 11,
+		"name" : "Экскаватор TZ",
+		"description" : "Экскаватор TZ"
+	},
+	{
+		"id" : 12,
+		"name" : "Экскаватор Komatsu",
+		"description" : "Экскаватор Komatsu"
+	},
+	{
+		"id" : 13,
+		"name" : "Буровая установка Epiroc",
+		"description" : "Буровая установка Epiroc"
+	}
+]}
